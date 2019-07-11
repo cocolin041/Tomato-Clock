@@ -1,8 +1,18 @@
 # tomato-clock
 
+### Vue setup
+```
+npm install -g @vue/cli
+```
+
 ## Project setup
 ```
 npm install
+```
+
+## Project create
+```
+vue create <project-name>
 ```
 
 ### Compiles and hot-reloads for development
