@@ -20,10 +20,22 @@
         <div class="clock-border"></div>
         <div class="clock-stroke"></div>
         <div class="clock-inside"></div>
+        <div class="play-circle">
+          <i class="fas fa-play"></i>
+          <div class="stop"></div>
+        </div>
       </div>
     </div>
 
-    <div class="nav"></div>
+    <div class="nav">
+      <div class="menu">
+        <i class="fas fa-bars"></i>
+        <i class="fas fa-chart-bar"></i>
+        <i class="fas fa-music"></i>
+      </div>
+      
+      <div class="logo">POMODORO</div>
+    </div>
   </div>
 </template>
 
